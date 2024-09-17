@@ -1,6 +1,6 @@
 # step 1 - to start this project you need to install PyCharm community edition or VS Code
 # step 2 - you need to install a package from your terminal - "schedule" and then import it as shown below
-# step 3 - you ned to import four packages "os, shutil, datetime, time" which are already installed in PyCharm and VS Code
+# step 3 - you need to import four packages "os, shutil, datetime, time" which are already installed in PyCharm and VS Code
 # step 4 - start coding
 
 
